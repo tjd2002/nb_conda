@@ -1,4 +1,8 @@
-# nb_conda
+# This is an unmaintained fork of an unmaintained project
+# Use https://github.com/fcollonval/jupyter_conda instead (Thanks @fcollonval)
+
+# nb_conda 
+
 [![Install with conda](https://anaconda.org/conda-forge/nb_conda/badges/installer/conda.svg
 )](https://anaconda.org/conda-forge/nb_conda)
 [![Build Status](https://travis-ci.org/Anaconda-Platform/nb_conda.svg)](https://travis-ci.org/Anaconda-Platform/nb_conda) [![Build status](https://ci.appveyor.com/api/projects/status/j999v076nwgwppwm/branch/master?svg=true)](https://ci.appveyor.com/project/bollwyvl/nb-conda/branch/master) [![Coverage Status](https://coveralls.io/repos/github/Anaconda-Platform/nb_conda/badge.svg?branch=master)](https://coveralls.io/github/Anaconda-Platform/nb_conda?branch=master)
